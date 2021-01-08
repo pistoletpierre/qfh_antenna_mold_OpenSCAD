@@ -4,6 +4,7 @@ STL_FILE=${SCAD_FILE/.scad/.stl}
 
 OPENSCAD_EXEC=$(which openscad)
 
+# MacOS openscad path if 'openscad' not in PATH
 OPENSCAD_EXEC=${OPENSCAD_EXEC:-"/Applications/OpenSCAD.app/Contents/MacOS/OpenSCAD"}
 
 # Generate .STL for slicer

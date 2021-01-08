@@ -1,0 +1,9 @@
+# .stl files
+*.stl
+
+# .gcode files
+*.gcode
+
+# Prusaslicer files
+*.3mf
+*.ini

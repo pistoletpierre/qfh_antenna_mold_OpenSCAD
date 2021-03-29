@@ -7,3 +7,6 @@
 # Prusaslicer files
 *.3mf
 *.ini
+
+
+.DS_Store
